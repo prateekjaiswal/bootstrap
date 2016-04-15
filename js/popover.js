@@ -9,9 +9,10 @@
 
 +function ($) {
   'use strict';
-
   // POPOVER PUBLIC CLASS DEFINITION
   // ===============================
+
+
 
   var Popover = function (element, options) {
     this.init('popover', element, options)
